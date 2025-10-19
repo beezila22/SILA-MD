@@ -1,7 +1,7 @@
 {
-  "name": "SILA-MD",
+  "name": "SENU-MD",
   "version": "4.5.0",
-  "description": "A WhatsApp Bot Created By SILA-MD",
+  "description": "A WhatsApp Bot Created By JESTER",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name SENU-MD",

@@ -1,4 +1,4 @@
-name: SILA MD
+name: khan-md
 services:
   - name: khan-md-service
     type: web

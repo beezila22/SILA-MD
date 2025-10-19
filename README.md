@@ -1,8 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF033E&center=true&width=1000&height=200&lines=SILA-MD-BOT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF033E&center=true&width=1000&height=200&lines=SENU-MD-BOT" alt="Typing SVG" /></a>
   </p>
 
 <p align="center">
-  <h1 align="center">SILA-MD 3.0</h1>
+  <h1 align="center">SENU-MD 3.0</h1>
 </p>
 
 > **`Updated` The Version 3.0**
@@ -10,25 +10,25 @@
 ---
 <p align="center">
   <a href="https://github.com/Awais-star-a11y">
-    <img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=SILA-MD-+v3.0+MultiDevice;Developed+by+SilaMd;Give+star+and+forks+this+Repo+🌟" alt="SILA110Readme">
+    <img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=SENU-MD-+v3.0+MultiDevice;Developed+by+SenuMd;Give+star+and+forks+this+Repo+🌟" alt="SENU110Readme">
   </a>
 </p>
 
-<a><img src='https://files.catbox.moe/gnjb7s.jpg'/></a>
-<h1 align="center"> SILA-MD </h1> 
-<p align="center">SILA-MD made for people, on Earth </p>
+<a><img src='https://files.catbox.moe/zkv7u1.jpg'/></a>
+<h1 align="center"> SENU-MD </h1> 
+<p align="center">SENU-MD made for people, on Earth </p>
 
  
    
 <p align="center">
  <h2>WhatsApp channel</h2>
-  <a href="https://whatsapp.com/channel/0029VbBPxQTJUM2WCZLB6j28" target="_blank">
+  <a href="https://whatsapp.com/channel/0029Vb2OcviBFLgPzVjWhE0n" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Join Whatsapp Channel For Updates-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
 
 
 
-<p align="center"> SILA-MD uses
+<p align="center"> SENU-MD uses
   <a href="https://github.com/WhiskeySockets/Baileys)**">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -39,7 +39,7 @@
 
 1. Link your WhatsApp by [`PAIR CODE`](https://senu-md-pair-8o5q.onrender.com/)
 2. ***Then `Go to Whatapp > Three dots > Linked Devices`***
-3. Deploy On Heruku .[`HEROKU`](https://dashboard.heroku.com/new-app?template=https://github.com/Silatrix2/SILA-MD)
+3. Deploy On Heruku .[`HEROKU`](https://dashboard.heroku.com/new-app?template=https://github.com/Awais-star-a11y/AWAIS-MD-V3)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -62,7 +62,7 @@
 </table>  
 
 <div align="center">
-  <img src="https://github.com/Silatrix2/SILA-MD/blob/main/assets/techwave.gif?raw=true" width="100%"/>
+  <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/techwave.gif?raw=true" width="100%"/>
 </div>
 
 ## 🌟 BOT FEATURES
@@ -76,19 +76,19 @@
 ```
 
 <div align="center">
-  <img src="https://github.com/Silatrix2/SILA-MD/blob/main/assets/cyberdivider.gif?raw=true" width="100%"/>
+  <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/cyberdivider.gif?raw=true" width="100%"/>
 </div>
 
 ## 🪀  SUPPORT CHANNEL
 
 <div align="center">
-  <a href="https://whatsapp.com/channel/0029VbBPxQTJUM2WCZLB6j28">
+  <a href="https://whatsapp.com/channel/0029VazFu9h7dmeQZLEuWB0V/229">
     <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github.com/Silatrix2/SILA-MD/blob/main/assets/neonpulse.gif?raw=true" width="300"/>
+  <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/neonpulse.gif?raw=true" width="300"/>
 </div>
 
 ## ⚠️ WARNING !
@@ -99,21 +99,21 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Silatrix2/SILA-MD/blob/main/assets/digitalrain.gif?raw=true" width="100%"/>
+  <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/digitalrain.gif?raw=true" width="100%"/>
 </div>
 
 ## 🗃️ PROJECT ARCHITECTS
 <div align="center">
-  <a href="https://github.com/Silatrix2">
+  <a href="https://github.com/JawadYT36">
     <img src="https://github-readme-stats.vercel.app/api?username=Jester36&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github.com/Silatrix2/SILA-MD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
+  <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
 
-## 👑 SILA-MD STATUS
+## 👑 JESTER STATUS
 
 ```diff
 + Project Status: Active
@@ -122,5 +122,5 @@
 ```
 
 <div align="center">
-  <img src="https://github.com/Silatrix2/SILA-MD/blob/main/assets/endwave.gif?raw=true" width="100%"/>
+  <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/endwave.gif?raw=true" width="100%"/>
 </div>

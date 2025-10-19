@@ -1,8 +1,8 @@
 {
-  "name": "SILA-MD",
-  "description": "Javascript WhatsApp bot made by SILA TECH",
-  "logo": "https://files.catbox.moe/gnjb7s.jpg",
-  "keywords": ["SILA-MD"],
+  "name": "SENU-MD",
+  "description": "Javascript WhatsApp bot made by JESTER TECHX",
+  "logo": "https://files.catbox.moe/neni8p.jpg",
+  "keywords": ["SENU-MD"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "SILA-MD"
+      "value": "SENU-MD"
     }, 
       
     "PREFIX": {
@@ -78,27 +78,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY SILA-MD 🖤*"
+      "value": "*SEEN YOUR STATUS BY SENU-MD 🖤*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "SILA MD"
+      "value": "JESTER TECHX"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255612491554"
+      "value": "94788770020"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SILA-MD"
+      "value": "SENU-MD"
 
       }, 
 
@@ -131,13 +131,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/ebj284.jpg"
+      "value": "https://files.catbox.moe/7zfdcq.jpg"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Sila Tᴇᴄʜ*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Jᴀᴡᴀᴅ TᴇᴄʜX*"
     },
 
       "DELETE_LINKS": {
